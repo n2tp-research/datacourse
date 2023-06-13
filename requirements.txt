@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+datascience
+prob140
+seaborn
+statsmodels
+xgboost
+jupyterlab
+plotly
